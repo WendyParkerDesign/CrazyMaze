@@ -1,0 +1,9 @@
+C:\Users\triosStudent\Documents\Visual Studio 2015\C# Dev Projects\CrazyMaze\CrazyMaze\bin\Debug\CrazyMaze.exe.config
+C:\Users\triosStudent\Documents\Visual Studio 2015\C# Dev Projects\CrazyMaze\CrazyMaze\bin\Debug\CrazyMaze.exe
+C:\Users\triosStudent\Documents\Visual Studio 2015\C# Dev Projects\CrazyMaze\CrazyMaze\bin\Debug\CrazyMaze.pdb
+C:\Users\triosStudent\Documents\Visual Studio 2015\C# Dev Projects\CrazyMaze\CrazyMaze\obj\Debug\CrazyMaze.csprojResolveAssemblyReference.cache
+C:\Users\triosStudent\Documents\Visual Studio 2015\C# Dev Projects\CrazyMaze\CrazyMaze\obj\Debug\CrazyMaze.Form1.resources
+C:\Users\triosStudent\Documents\Visual Studio 2015\C# Dev Projects\CrazyMaze\CrazyMaze\obj\Debug\CrazyMaze.Properties.Resources.resources
+C:\Users\triosStudent\Documents\Visual Studio 2015\C# Dev Projects\CrazyMaze\CrazyMaze\obj\Debug\CrazyMaze.csproj.GenerateResource.Cache
+C:\Users\triosStudent\Documents\Visual Studio 2015\C# Dev Projects\CrazyMaze\CrazyMaze\obj\Debug\CrazyMaze.exe
+C:\Users\triosStudent\Documents\Visual Studio 2015\C# Dev Projects\CrazyMaze\CrazyMaze\obj\Debug\CrazyMaze.pdb

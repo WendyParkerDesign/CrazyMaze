@@ -1,0 +1,3 @@
+CrazyMaze is a Windows Application I created the app in Visual Studio in 2016. It is a colourful game of finding your way from start to finish through the maze. Sound effects make the game even more exciting and crazy!
+
+~ Wendy Parker
